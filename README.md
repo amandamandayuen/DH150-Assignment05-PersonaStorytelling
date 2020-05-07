@@ -9,7 +9,7 @@
 -	__Search/Q&A tool__ – allows users search for information they want, allows users to submit questions/concerns and provides feedbacks on users’ questions, posts common questions and answers on the page
 -	__Official resources/announcements page__ – posts and updates government announcements and resources (such as testing booths information), allows users to search for information they want
 
-## Link to images of personas, emphathy maps, and journey maps
+## Link to images of personas, empathy maps, and journey maps
 
 #### Click link below:
 https://drive.google.com/open?id=1JCGg-f0wBQ6xI_-iP_tV02rMLKoQ9Xb4
