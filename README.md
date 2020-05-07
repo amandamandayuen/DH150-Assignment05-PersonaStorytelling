@@ -14,7 +14,7 @@
 #### Click link below:
 https://drive.google.com/open?id=1JCGg-f0wBQ6xI_-iP_tV02rMLKoQ9Xb4
 
-(I don't know why I failed to upload the images to this site, I'm still trying to upload them to here)
+(I don't know why I failed to upload the images to this site, I'm still trying to upload them to this site)
 
 ## Persona 1: Heather Walker
 
