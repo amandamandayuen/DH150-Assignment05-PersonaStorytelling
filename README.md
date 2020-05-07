@@ -14,8 +14,6 @@
 #### Click link below:
 https://drive.google.com/open?id=1JCGg-f0wBQ6xI_-iP_tV02rMLKoQ9Xb4
 
-(I don't know why I failed to upload the images to this site, I'm still trying to upload them to this site)
-
 ## Persona 1: Heather Walker
 ![p1](https://github.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/blob/master/Persona1.png)
 ![p1.1](https://github.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/blob/master/Persona1_empathymap.png)
@@ -43,4 +41,4 @@ Finn is sitting inside his restaurant. It’s after lunch time and he just finis
 Use Case: Finn’s kids recommended the app to him, but he has not tried it before. He downloaded the app from app store and opens it up carefully. He taps onto different tabs including “map” and “visualization”, and he murmured that the fonts and graphs are too small for him to see. He then remembers he should look for testing booths and government announcements information, but he goes back and forth on different tabs for a few minutes. He finally taps onto the “government updates” tab, and scrolls up and down to check for announcement relevant to restaurants. He sees the “food facilities” section and taps into it slowly. He reads out the notices loud and then carefully taps back to “government updates” page and scrolls up and down for “testing booth” section. He finally taps into the section, stares at the information for a while, and pulls out pen and paper to write down the information. He then makes a call to one of his kids to seek for confirmation. 
 ![S3](https://github.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/blob/master/Scenario%203%20Jouney%20Map.png)
 
-##### All images used are from canva.com
+##### Cited Sources: All images used are from canva.com
