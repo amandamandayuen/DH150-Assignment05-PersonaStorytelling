@@ -9,7 +9,7 @@
 -	__Search/Q&A tool__ – allows users search for information they want, allows users to submit questions/concerns and provides feedbacks on users’ questions, posts common questions and answers on the page
 -	__Official resources/announcements page__ – posts and updates government announcements and resources (such as testing booths information), allows users to search for information they want
 
-## Link to images of personas, empathy maps, and journey maps
+## Link to all images of personas, empathy maps, and journey maps
 
 #### Click link below:
 https://drive.google.com/open?id=1JCGg-f0wBQ6xI_-iP_tV02rMLKoQ9Xb4
@@ -17,7 +17,7 @@ https://drive.google.com/open?id=1JCGg-f0wBQ6xI_-iP_tV02rMLKoQ9Xb4
 (I don't know why I failed to upload the images to this site, I'm still trying to upload them to this site)
 
 ## Persona 1: Heather Walker
-
+![p1](https://github.com/amandamandayuen/DH150-Assignment05-PersonaStorytelling/blob/master/Persona1.png)
 ### Scenario 1: Navigating through interative map and visualization
 Heather, a marketing consultant in Los Angeles, is busy with balancing her work and family while she is practicing social distancing and working remotely from home. After first few weeks’ tension, Heather has not checked any updates on the spread of COVID19 for two weeks. These days, the weather gets warmer and Heather’s parents and daughters started to ask her if they could go out. Heather feels unsure and she realizes that she needs to learn more about the current spread of COVID19 before she could tell her family about the situation. 
 
