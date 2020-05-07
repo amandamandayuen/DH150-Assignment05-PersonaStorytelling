@@ -9,6 +9,11 @@
 -	__Search/Q&A tool__ – allows users search for information they want, allows users to submit questions/concerns and provides feedbacks on users’ questions, posts common questions and answers on the page
 -	__Official resources/announcement page__ – posts and updates government announcements and resources (such as testing booths information), allows users to search for information they want
 
+## Link to images of personas, emphathy maps, and journey maps
+
+#### Link: 
+https://drive.google.com/open?id=1JCGg-f0wBQ6xI_-iP_tV02rMLKoQ9Xb4
+
 ## Persona 1: Heather Walker
 Age: 43
 Occupation: Marketing Consultant
